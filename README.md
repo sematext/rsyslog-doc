@@ -1,5 +1,8 @@
-rsyslog-docs (v7-stable)
+rsyslog-docs (v7-devel)
 ========================
+
+v7-devel Branch is locked. It will no longer accept merges
+==========================================================
 
 Documentation for the rsyslog project
 -------------------------------------
